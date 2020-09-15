@@ -1,0 +1,19 @@
+C:\Users\Student PCE\source\repos\WindowsFormsPaint1\WindowsFormsPaint1\obj\Debug\WindowsFormsPaint1.csprojAssemblyReference.cache
+C:\Users\Student PCE\source\repos\WindowsFormsPaint1\WindowsFormsPaint1\obj\Debug\WindowsFormsPaint1.Form1.resources
+C:\Users\Student PCE\source\repos\WindowsFormsPaint1\WindowsFormsPaint1\obj\Debug\WindowsFormsPaint1.Properties.Resources.resources
+C:\Users\Student PCE\source\repos\WindowsFormsPaint1\WindowsFormsPaint1\obj\Debug\WindowsFormsPaint1.csproj.GenerateResource.cache
+C:\Users\Student PCE\source\repos\WindowsFormsPaint1\WindowsFormsPaint1\bin\Debug\WindowsFormsPaint1.exe.config
+C:\Users\Student PCE\source\repos\WindowsFormsPaint1\WindowsFormsPaint1\bin\Debug\WindowsFormsPaint1.exe
+C:\Users\Student PCE\source\repos\WindowsFormsPaint1\WindowsFormsPaint1\bin\Debug\WindowsFormsPaint1.pdb
+C:\Users\Student PCE\source\repos\WindowsFormsPaint1\WindowsFormsPaint1\obj\Debug\WindowsFormsPaint1.exe
+C:\Users\Student PCE\source\repos\WindowsFormsPaint1\WindowsFormsPaint1\obj\Debug\WindowsFormsPaint1.pdb
+E:\WindowsFormsPaint1\bin\Debug\WindowsFormsPaint1.exe.config
+E:\WindowsFormsPaint1\bin\Debug\WindowsFormsPaint1.exe
+E:\WindowsFormsPaint1\bin\Debug\WindowsFormsPaint1.pdb
+E:\WindowsFormsPaint1\obj\Debug\WindowsFormsPaint1.csprojAssemblyReference.cache
+E:\WindowsFormsPaint1\obj\Debug\WindowsFormsPaint1.Form1.resources
+E:\WindowsFormsPaint1\obj\Debug\WindowsFormsPaint1.Properties.Resources.resources
+E:\WindowsFormsPaint1\obj\Debug\WindowsFormsPaint1.csproj.GenerateResource.cache
+E:\WindowsFormsPaint1\obj\Debug\WindowsFormsPaint1.csproj.CoreCompileInputs.cache
+E:\WindowsFormsPaint1\obj\Debug\WindowsFormsPaint1.exe
+E:\WindowsFormsPaint1\obj\Debug\WindowsFormsPaint1.pdb
