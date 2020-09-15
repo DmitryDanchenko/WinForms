@@ -1,0 +1,10 @@
+C:\Users\danch\source\repos\WindowsFormsApp4_1\WindowsFormsApp4_1\bin\Debug\WindowsFormsApp4_1.exe.config
+C:\Users\danch\source\repos\WindowsFormsApp4_1\WindowsFormsApp4_1\bin\Debug\WindowsFormsApp4_1.exe
+C:\Users\danch\source\repos\WindowsFormsApp4_1\WindowsFormsApp4_1\bin\Debug\WindowsFormsApp4_1.pdb
+C:\Users\danch\source\repos\WindowsFormsApp4_1\WindowsFormsApp4_1\obj\Debug\WindowsFormsApp4_1.Form1.resources
+C:\Users\danch\source\repos\WindowsFormsApp4_1\WindowsFormsApp4_1\obj\Debug\WindowsFormsApp4_1.Properties.Resources.resources
+C:\Users\danch\source\repos\WindowsFormsApp4_1\WindowsFormsApp4_1\obj\Debug\WindowsFormsApp4_1.csproj.GenerateResource.cache
+C:\Users\danch\source\repos\WindowsFormsApp4_1\WindowsFormsApp4_1\obj\Debug\WindowsFormsApp4_1.csproj.CoreCompileInputs.cache
+C:\Users\danch\source\repos\WindowsFormsApp4_1\WindowsFormsApp4_1\obj\Debug\WindowsFormsApp4_1.exe
+C:\Users\danch\source\repos\WindowsFormsApp4_1\WindowsFormsApp4_1\obj\Debug\WindowsFormsApp4_1.pdb
+C:\Users\danch\source\repos\WindowsFormsApp4_1\WindowsFormsApp4_1\obj\Debug\WindowsFormsApp4_1.csprojAssemblyReference.cache
